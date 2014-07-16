@@ -1,0 +1,10 @@
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\bin\Debug\GitLauncher.exe.config
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\bin\Debug\GitLauncher.exe
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\bin\Debug\GitLauncher.pdb
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\bin\Debug\GitLauncher.xml
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\obj\Debug\GitLauncher.Form1.resources
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\obj\Debug\GitLauncher.Resources.resources
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\obj\Debug\GitLauncher.vbproj.GenerateResource.Cache
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\obj\Debug\GitLauncher.exe
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\obj\Debug\GitLauncher.xml
+c:\users\god\documents\visual studio 2012\Projects\GitLauncher\GitLauncher\obj\Debug\GitLauncher.pdb
