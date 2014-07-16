@@ -18,4 +18,4 @@ To-do
 * Better way of saving/using user's selected path
 
 Author
-Alexandre Da Re (Student at EXIA.Cesi - France)
+*Alexandre Da Re (Student at EXIA.Cesi - France)
