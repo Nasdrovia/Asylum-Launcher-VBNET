@@ -11,3 +11,8 @@ Features
 * Async download (with events on change and completed)
 * Delete temp files on closing event
 * Probably other stuff I forgot :)
+
+To-do
+* Better error handler
+* Sub-progress bar ? Like file downloading progress bar and another one displaying the progress of the whole update (2/10 files downloaded = 20%)
+* Better way of saving/using user's selected path
